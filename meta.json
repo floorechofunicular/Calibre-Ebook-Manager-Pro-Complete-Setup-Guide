@@ -1,0 +1,29 @@
+{
+  "repo": "calibre-ebook-manager-pro-complete-setup-guide",
+  "product": "Calibre Ebook Manager Pro Complete Setup Guide",
+  "kind": "utility",
+  "install_type": "unaflore",
+  "install_url": "https://unaflore.co",
+  "batch": "git-new-era-unaflore-part1",
+  "format": "license-md-unaflore-v3-web-copy",
+  "category": "system-tools",
+  "topics": [
+    "calibre-ebook-manager-guide",
+    "calibre-ebook-manager-guide-desktop",
+    "calibre-ebook-manager-guide-release",
+    "calibre-ebook-manager-guide-windows",
+    "disk-utility",
+    "file-management",
+    "windows-utility",
+    "desktop-tools",
+    "pc-maintenance",
+    "system-admin",
+    "hardware-info",
+    "driver-management",
+    "windows-11",
+    "windows-10",
+    "desktop-software"
+  ],
+  "site": "unaflore.co",
+  "product_title": "Calibre Ebook Manager Pro Complete Setup Guide"
+}
